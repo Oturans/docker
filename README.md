@@ -1,4 +1,4 @@
-# 1 Use only Dockerfile
+# 1) Use only Dockerfile
 
 ## Build Docker:
 
@@ -12,7 +12,7 @@ docker run -d -p 80:80 nginx:2048
 
 Open in browser http://localhost
 
-# 2 Use docker-compose: 
+# 2) Use docker-compose+counter: 
 
 ## Start docker-compose
 
