@@ -25,3 +25,8 @@ Open in browser http://localhost
 ## Watch Hits:
 
 http://localhost/counterView.php
+   
+   
+P.S. If you have error: Warning: fopen(countlog.txt): failed to open ...  
+add some right:  
+**chmod 777 ./2048/countlog.txt**
